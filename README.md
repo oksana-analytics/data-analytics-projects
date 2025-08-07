@@ -1,6 +1,6 @@
 # data-analytics-projects
 ## 📄 Резюме  
-[Скачать резюме (PDF)](/Petrova_Resume_DataAnalyst.pdf)
+[Скачать резюме (DOCX)](/PetrovaO_Resume_DataAnalyst.docx)
 
 # Портфолио аналитика данных: Петрова Оксана
 
